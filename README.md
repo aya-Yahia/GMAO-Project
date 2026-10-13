@@ -3,15 +3,15 @@
 
 # 🚛 GMAO Project: Fleet Maintenance & BI Analytics
 
-## 📌 Project Overview
+##  Project Overview
 The **GMAO System (Gestion de Maintenance Assistée par Ordinateur)** manages and tracks end-to-end truck maintenance operations, covering intervention requests, scheduled maintenance, work orders, spare parts consumption, and maintenance closure.
 
-### 🔄 Operational Workflow
+###  Operational Workflow
 `Demande d'Intervention (DI) / Intervention Planifiée (IP)` ➔ `Bons de Travail (BT)` ➔ `Execution` ➔ `Parts Consumption` ➔ `Closure`
 
 ---
 
-## 🎯 Key Objectives
+##  Key Objectives
 
 ### 1. Database Engineering
 * Designed and deployed a robust **relational SQL database** to aggregate all fleet maintenance, work orders, and inventory data.
@@ -32,7 +32,7 @@ Engineered an **interactive 4-page Power BI executive dashboard** focused on:
 
 ## 💡 Key Insights & Business Recommendations
 
-### 📊 1. Operations & Fleet Breakdown Trends
+###  1. Operations & Fleet Breakdown Trends
 * **Work Order Volatility:** Daily demand ranges from 1 to 3 work orders, peaking in early-to-mid July.
   * **Recommendation:** Align workshop staffing with peak days and schedule routine *Interventions Planifiées (IP)* during low-volume days (1 WO/day) to prevent workload bottlenecks.
 * **Component Downtime Drivers:** Pneumatic (`EQ-TRK02-PNE` with 4 repair hours) and Engine systems (`TRK01` & `TRK03` with 3 hours each) dominate total downtime.
@@ -52,7 +52,7 @@ Engineered an **interactive 4-page Power BI executive dashboard** focused on:
 
 ---
 
-### ⚙️ 3. Maintenance Performance & Efficiency
+###  3. Maintenance Performance & Efficiency
 * **Repair Durations:** Fleet average repair time is **0.73 hours** (~44 mins), but engine overhauls average **1.5 hours** with spikes reaching up to 3 hours.
   * **Recommendation:** Provide specialized diagnostic tools for engine/pneumatic repairs and establish Standard Operating Procedures (SOPs) to reduce repair time variance.
 * **Backlog Management:** **62%** of work orders remain in *À faire* (To-Do) status, while only **30%** are marked *Fait* (Completed).
