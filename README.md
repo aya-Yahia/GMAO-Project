@@ -1,4 +1,23 @@
 # GMAO-Project
+## 📊 Power BI Executive Dashboard Preview
+
+### 1. Executive Fleet Overview & Breakdown Trends
+![Executive Fleet Overview](01-executive-fleet-overview.png)
+
+---
+
+### 2. Spare Parts & Warehouse Inventory Matrix
+![Spare Parts Inventory Analytics](03-spare-parts-inventory.png)
+
+---
+
+### 3. Repair Efficiency KPIs & Work Order Status
+![Repair Efficiency & Completion Status](04-repair-efficiency-kpis.png)
+
+---
+
+### 4. Work Order Task & Urgency Detail Log
+![Work Order Operations Log](02-work-order-log-table.png)
 
 
 # 🚛 GMAO Project: Fleet Maintenance & BI Analytics
